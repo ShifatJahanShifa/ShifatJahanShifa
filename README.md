@@ -7,9 +7,6 @@
 - 📫 How to reach me: shifatjahan.hcc@gmail.com
 - ⚡ Fun fact: it is hard to believe i am a funny person!
 -->
-# 💫 About Me:
-I'm currently working on GIF encoder for my SPL_01<br>Ask me about Data Structures and Algorithm
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ParanoidShifa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shifat-jahan-shifa-284372242/) 

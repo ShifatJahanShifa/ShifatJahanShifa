@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifatjahanshifa" alt="shifatjahanshifa" /></a> </p>
 
-- 🔭 I’m currently working on [SPL-01, GIF encoder](https://github.com/ShifatJahanShifa/SPL-01)
+- 🔭 I’m currently working on [my SPL](https://github.com/ShifatJahanShifa/SPL-01)
 
-- 🌱 I’m currently learning **Some advanced data structures**
+- 🌱 I’m currently learning **Some advanced data structures, python, CP algorithms** 
 
 - 💬 Ask me about **Data structure and Algorithm**
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Some advanced data structures, python, CP algorithms** 
 
-- 💬 Ask me about **Data structure and Algorithm**
+- 💬 Ask me about **Data structure and Algorithm, C, C++, Java**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

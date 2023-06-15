@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my SPL](https://github.com/ShifatJahanShifa/SPL-01)
 
-- 🌱 I’m currently learning **Some advanced data structures, python, CP algorithms** 
+- 🌱 I’m currently learning **Python ,CP algorithms ,CTF ,Information Security ,Frontend Development** 
 
-- 💬 Ask me about **Data structure and Algorithm, C, C++, Java**
+- 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

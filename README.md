@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Client-Server Website](https://github.com/ShifatJahanShifa/A-Simple-Cilent-Server-Website)
 
-- 🌱 I’m currently learning **Python ,CP algorithms ,CTF ,Information Security ,Frontend Development** 
+- 🌱 I’m currently learning **Python ,CP algorithms** 
 
 - 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography**
 

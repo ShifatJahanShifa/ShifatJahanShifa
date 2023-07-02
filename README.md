@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [Client-Server Website](https://github.com/ShifatJahanShifa/A-Simple-Cilent-Server-Website)
 
-- 🌱 I’m currently learning **Python ,CP algorithms** 
+- 🌱 I’m currently learning **Python ,CP algorithms**   
 
 - 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
-
-- 📝 I sometimes write on [https://shifatjahanhcc.wixsite.com/shifawritessometimes](https://shifatjahanhcc.wixsite.com/shifawritessometimes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

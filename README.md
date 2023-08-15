@@ -18,9 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shifat-jahan-shifa-284372242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifat-jahan-shifa-284372242/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/paranoidshifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/paranoidshifa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20833632/shifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20833632/shifa" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shifatjahanshifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shifatjahanshifa" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@shifatjahan.hcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shifatjahan.hcc" height="30" width="40" /></a>
-</p>
+
 
 
 

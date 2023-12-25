@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Software Engineering Undergrad Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShifatJahanShifa&label=Profile%20views&color=0e75b6&style=flat" alt="ShifatJahanShifa" /> </p>
-<img align="center"  width="300" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifatjahanshifa" alt="shifatjahanshifa" /></a> </p>
-
+<img align="right"  width="300" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 - 🔭 I’m currently working on [Academia](https://github.com/ShifatJahanShifa/Academia)
 
 - 🌱 I’m currently learning **Python ,CP algorithms**   
@@ -12,6 +9,9 @@
 - 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifatjahanshifa" alt="shifatjahanshifa" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

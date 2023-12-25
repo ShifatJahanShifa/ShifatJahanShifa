@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifatjahanshifa" alt="shifatjahanshifa" /></a> </p>
 
-- 🔭 I’m currently working on [Client-Server Website](https://github.com/ShifatJahanShifa/A-Simple-Cilent-Server-Website)
+- 🔭 I’m currently working on [Academia](https://github.com/ShifatJahanShifa/Academia)
 
 - 🌱 I’m currently learning **Python ,CP algorithms**   
 

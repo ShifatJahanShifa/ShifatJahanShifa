@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineering Undergrad Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShifatJahanShifa&label=Profile%20views&color=0e75b6&style=flat" alt="ShifatJahanShifa" /> </p>
 <img align="right"  width="300" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 - 🔭 I’m currently working on [Academia](https://github.com/ShifatJahanShifa/Academia)
 
 - 🌱 I’m currently learning **Python ,CP algorithms**   

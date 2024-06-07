@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [E-Accessibility](https://github.com/ShifatJahanShifa/SPL-02)
 
-- 🌱 I’m currently learning **Python ,CP algorithms, JavaScript, Web Scraping**   
+- 🌱 I’m currently learning **Reactjs ,CP algorithms, JavaScript, **   
 
-- 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography**
+- 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography, netrworking concepts**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

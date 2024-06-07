@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Accessibility](https://github.com/ShifatJahanShifa/SPL-02)
 
-- 🌱 I’m currently learning **Reactjs ,CP algorithms, JavaScript, **   
+- 🌱 I’m currently learning **Reactjs ,CP algorithms, JavaScript**   
 
 - 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography, netrworking concepts**
 

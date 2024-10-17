@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [E-Accessibility](https://github.com/ShifatJahanShifa/SPL-02)
 
-- 🌱 I’m currently learning **Figma design ,Reactjs ,CP algorithms, JavaScript**   
+- 🌱 I’m currently learning **MERN Stack ,CP algorithms**   
 
-- 💬 Ask me about **Data structure and Algorithm, C, C++, Java, Steganography, netrworking concepts**
+- 💬 Ask me about **Data structure and Algorithm, LeafletJS, Web Content Accessibility, C, C++, Java, Steganography, netrworking concepts**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

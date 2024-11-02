@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShifatJahanShifa&label=Profile%20views&color=0e75b6&style=flat" alt="ShifatJahanShifa" /> </p>
 <img align="right"  width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on [8-puzzle-game](https://github.com/ShifatJahanShifa/8-Puzzle-Game)
+- 🔭 I’m currently working on [GoMoku](https://github.com/ShifatJahanShifa/GoMoku)
 
 - 🌱 I’m currently learning **MERN Stack ,CP algorithms**   
 

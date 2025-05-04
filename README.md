@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShifatJahanShifa&label=Profile%20views&color=0e75b6&style=flat" alt="ShifatJahanShifa" /> </p>
 <img align="right"  width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
-- 🔭 I’m currently working on [GoMoku](https://github.com/ShifatJahanShifa/GoMoku)
+- 🔭 I’m currently working on [ToDoApp](https://github.com/ShifatJahanShifa/To-Do-List-App)
 
-- 🌱 I’m currently learning **MERN Stack , Unity, CP algorithms**   
+- 🌱 I’m currently learning **TypeScript, JavaScript, Unity, CSS, CP algorithms**   
 
-- 💬 Ask me about **Data structure and Algorithm, LeafletJS, Web Content Accessibility, C, C++, Java, Steganography, networking concepts**
+- 💬 Ask me about **Data structure and Algorithm, Web Content Accessibility, C, C++, Java, Steganography, networking concepts**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

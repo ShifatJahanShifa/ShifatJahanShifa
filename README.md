@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Cefalo Travel Connect](https://github.com/ShifatJahanShifa/Cefalo-Travel-Connect-App)
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, Unity, CSS, CP algorithms**   
+- 🌱 I’m currently learning **Vuforia, Unity, RAG, CSS**   
 
-- 💬 Ask me about **Data structure and Algorithm, Web Content Accessibility, C, C++, Java, Steganography, networking concepts**
+- 💬 Ask me about **Data Structure and Algorithm, Web Content Accessibility, C, C++, Java, Steganography, Networking Concepts**
 
 - 📫 How to reach me **shifatjahan.hcc@gmail.com**
 

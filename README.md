@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shifa</h1>
+<h1 align="center">Hi! I'm Shifa</h1>
 <h3 align="center">A passionate Software Engineering Undergrad Student</h3>
 <h4 align="center">From IIT, University of Dhaka</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShifatJahanShifa&label=Profile%20views&color=0e75b6&style=flat" alt="ShifatJahanShifa" /> </p>
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [StackRAG VSCode Extension](https://github.com/ShifatJahanShifa/StackRAGFix)
 
-- 🌱 I’m currently learning **Vuforia, Unity, RAG, CSS**   
+- 🌱 I’m currently learning **Machine Learning**   
 
 - 💬 Ask me about **Data Structure and Algorithm, Web Content Accessibility, C, C++, Java, Steganography, Networking Concepts**
 
